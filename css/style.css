@@ -26,6 +26,11 @@ html {
   max-width: 37.5rem;
 }
 
+.download-section {
+  padding-top: 5rem;
+  padding-bottom: 5rem;
+}
+
 img {
   max-width: 100%;
 }
