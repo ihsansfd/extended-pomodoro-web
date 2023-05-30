@@ -1,0 +1,31 @@
+:root {
+  --bs-primary-rgb: 255, 99, 99;
+  --bs-link-color-rgb: 255, 99, 99;
+}
+
+html {
+  font-size: 16px;
+}
+
+.btn-primary {
+  --bs-btn-bg: #ff6363;
+  --bs-btn-border-color: none;
+  --bs-btn-active-bg: #fd4b4b;
+  --bs-btn-hover-bg: #fd4b4b;
+}
+
+.hero-text {
+  font-size: 2rem;
+}
+
+.hero-section {
+  min-height: 20rem;
+}
+
+.feature-text {
+  max-width: 37.5rem;
+}
+
+img {
+  max-width: 100%;
+}
