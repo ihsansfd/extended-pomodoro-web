@@ -34,3 +34,7 @@ html {
 img {
   max-width: 100%;
 }
+
+.tutorial-text {
+  max-width: 45rem;
+}
